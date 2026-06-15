@@ -19,6 +19,11 @@
       </startupnotify>
     </action>
   </item>
+  <item label="Clion">
+    <action name="Execute">
+      <command>/opt/clion/bin/clion</command>
+    </action>
+  </item> 
   <item label="RustRover">
     <action name="Execute">
       <command>/opt/RustRover/bin/rustrover</command> 
